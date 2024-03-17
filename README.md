@@ -4,7 +4,7 @@ COMP 3005 Assignment-3 Q1
 
 Video link: https://youtu.be/2p8QbAGJHW0
 
-GitHub link: 
+GitHub link: https://github.com/FactorSoldrake/comp3005_A3_Q1.git
 
 Preequisties:
 
