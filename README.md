@@ -33,8 +33,8 @@ SQL setup:
         String password = "postgres";
 
 IDE setup:
-- Running the application: Open the IDE and locate the src folder with compile all 
- the files in the main.
+- Running the application: Open the IDE and set the folder just inside the 'q1' folder
+  if you set it an further it will not be able to locate the JDBC Maven
 
 Application run:
 - Run the main.java file using the run button in VS code IDE the terminal should launch
