@@ -33,7 +33,7 @@ SQL setup:
         String password = "postgres";
 
 IDE setup:
-- Running the application: Open the IDE and set the folder just inside the 'q1' folder
+- Running the application: Open the IDE and set it at the 'q1' folder
   if you set it an further it will not be able to locate the JDBC Maven
 
 Application run:
