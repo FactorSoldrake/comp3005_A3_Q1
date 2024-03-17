@@ -2,7 +2,7 @@
 
 COMP 3005 Assignment-3 Q1
 
-Video link:  
+Video link: https://youtu.be/2p8QbAGJHW0
 GitHub link: 
 
 Preequisties:
